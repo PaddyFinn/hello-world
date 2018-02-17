@@ -1,1 +1,3 @@
-Adding some text to pull locally
+Adding some text to pull locally.
+
+Adding some more locally to push.
